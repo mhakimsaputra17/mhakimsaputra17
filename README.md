@@ -21,6 +21,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mhakimsaputra17&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# Problem Solving:
+![LeetCode Stats](https://leetcard.jacoblin.cool/mhakimsaputra?theme=unicorn&font=Brygada%201918&ext=heatmap)
+
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mhakimsaputra) 
 
