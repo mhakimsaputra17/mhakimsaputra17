@@ -1,5 +1,5 @@
 <div align="center">
-  <div class="tenor-gif-embed" data-postid="22907843" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/rimuru-tempest-rimuru-tempest-demon-lord-anime-gif-22907843">Rimuru Tempest GIF</a>from <a href="https://tenor.com/search/rimuru-gifs">Rimuru GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img height="150" src="https://images4.alphacoders.com/122/thumb-1920-1226034.jpg"  />
 </div>
 
 ###
