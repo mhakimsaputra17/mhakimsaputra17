@@ -1,8 +1,9 @@
 <div align="center">
-  <img height="250" src="https://images4.alphacoders.com/122/thumb-1920-1226034.jpg"  />
+  <img height="250" src="[https://images4.alphacoders.com/122/thumb-1920-1226034.jpg](https://github.com/user-attachments/assets/d07ac571-240a-4a57-b461-a4ce15558b5e)"  />
 </div>
 
 ###
+![rimuru_tempest_gif_enhanced_by_kalizakiz_dgcs7zi](https://github.com/user-attachments/assets/d07ac571-240a-4a57-b461-a4ce15558b5e)
 
 # 💫 About Me:
 🔭 I’m currently working as Back End Developer<br>🌱 I’m currently learning Golang<br>⚡ In my free time I like traveling
