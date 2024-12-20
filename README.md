@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="[https://images4.alphacoders.com/122/thumb-1920-1226034.jpg](https://github.com/user-attachments/assets/d07ac571-240a-4a57-b461-a4ce15558b5e)"  />
+  <img src="[https://images4.alphacoders.com/122/thumb-1920-1226034.jpg](https://github.com/user-attachments/assets/d07ac571-240a-4a57-b461-a4ce15558b5e)"  />
 </div>
 
 ###
